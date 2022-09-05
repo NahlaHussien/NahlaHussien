@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NahlaHussien.
 - 👀 I’m interested in Embedded Systems.
-- 🌱 I’m currently learning Machine Learning and Cloud-DevOPs.
+- 🌱 I’m currently learning Machine Learning and Cloud-DevOps.
 - 📫 How to reach me https://www.linkedin.com/in/nahla-hussien/
 
 <!---
